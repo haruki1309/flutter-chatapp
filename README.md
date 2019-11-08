@@ -1,5 +1,10 @@
 # MOBILE COURSE: 1ST EXERCISE - FLUTTER APP CHAT
 
+## My Infomation:
+- Name: Bùi Trung Tín
+- Student ID: 16521239
+- SE346.K11
+
 ## Function:
 - Firebase Authencation: Login, Signin.
 - Realtime Chat.
