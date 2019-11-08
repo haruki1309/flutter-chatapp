@@ -1,4 +1,4 @@
-# MOBILE COURSE: 1ST EXCERCISE - FLUTTER APP CHAT
+# MOBILE COURSE: 1ST EXERCISE - FLUTTER APP CHAT
 
 ## Function:
 - Firebase Authencation: Login, Signin.
