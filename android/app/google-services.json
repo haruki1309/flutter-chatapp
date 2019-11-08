@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "990719754595",
+    "firebase_url": "https://mobile-course-chat-app-6851b.firebaseio.com",
+    "project_id": "mobile-course-chat-app-6851b",
+    "storage_bucket": "mobile-course-chat-app-6851b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990719754595:android:da6eb6c001025379d85356",
+        "android_client_info": {
+          "package_name": "com.example.appchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990719754595-o8rsq676207viuo5qs5s7tmk20um8if2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrowUOZU1-RWAiwKpndBJvWjloAF-cIUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990719754595-o8rsq676207viuo5qs5s7tmk20um8if2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990719754595-8sr7t7a1ao35kbg0v5e1mefsf61rpbdr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appchat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

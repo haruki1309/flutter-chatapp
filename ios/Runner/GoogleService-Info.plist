@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>990719754595-8sr7t7a1ao35kbg0v5e1mefsf61rpbdr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.990719754595-8sr7t7a1ao35kbg0v5e1mefsf61rpbdr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAVwEWCyNCtWmhI7936faNVzcQTGiUucV8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>990719754595</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.appchat</string>
+	<key>PROJECT_ID</key>
+	<string>mobile-course-chat-app-6851b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mobile-course-chat-app-6851b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:990719754595:ios:739a708c37861695d85356</string>
+	<key>DATABASE_URL</key>
+	<string>https://mobile-course-chat-app-6851b.firebaseio.com</string>
+</dict>
+</plist>
