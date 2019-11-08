@@ -6,5 +6,6 @@
 - Image sharing.
 
 ## What it looks like:
-
-<img alt="Login" src="login.PNG" height="640"> <img alt="Register" src="register.PNG" height="640"> <img alt="Chatscreen" src="chatscreen.PNG" height="640">
+| A | B | C |
+| - | - | - |
+| <img alt="Login" src="login.PNG" height="640"> | <img alt="Register" src="register.PNG" height="640"> | <img alt="Chatscreen" src="chatscreen.PNG" height="640"> |
